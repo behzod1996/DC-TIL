@@ -1,2 +1,2 @@
-# TIL
-Today I Learned
+# DC-TIL
+Daily Coding - Today I Learned
